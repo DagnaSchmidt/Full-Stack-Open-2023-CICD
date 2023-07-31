@@ -43,3 +43,4 @@ jobs:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                 WITH_V: true
                 PRERELEASE: true
+                GIT_DISCOVERY_ACROSS_FILESYSTEM: 1
