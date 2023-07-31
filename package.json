@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DagnaSchmidt/Full-Stack-Open-2023-CICD"
+    "url": "https://github.com/DagnaSchmidt/Full-Stack-Open-2023-CICD.git"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
