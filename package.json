@@ -11,10 +11,6 @@
     "cypress:open": "cypress open",
     "test:e2e": "cypress run --spec 'cypress/e2e/first.cy.js'"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/DagnaSchmidt/Full-Stack-Open-2023-CICD.git"
-  },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/plugin-transform-runtime": "^7.10.0",
